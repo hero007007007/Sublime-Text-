@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>hero 小站 </title>
+</head>
+<body>
+	<body background="https://travel.ulifestyle.com.hk/cms/news_photo/original/20180629142331_8_The_Infinite_Crystal_Universe_02_preview.jpeg">
+	<h1><FONT COLOR=#00CED1 face="MV Boli,"font size=8">Hero小站</FONT></h1>
+	<h2><FONT COLOR=#00BFFF face="MV Boli,"font size=7">好書推薦	</FONT></h2>
+	<P align=center><STRONG><FONT color=#F8F8FF,"font size=5">傑克.李奇一生一無所懼<br>在希望與絕望，天堂與地獄，自由與謊言中，如何層層剝繭找出真相。對李奇而言，正義，才是他唯一的信仰!
+	<div align="Left">
+	<a href="http://www.crown.com.tw/no22/leechild/intro.htm"><img src="http://www.crown.com.tw/shared/cover_b/509012.jpg">
+    <img src="http://www.crown.com.tw/shared/cover_b/509014.jpg">
+    <img src="http://www.crown.com.tw/shared/cover_b/509013.jpg">
+	<img src="http://www.crown.com.tw/shared/cover_b/509007.jpg"></a>
+	
+    <hr size="8px" align="center" width="100%">
+	<h3><FONT COLOR=#00BFFF face="MV Boli,"font size=7">音樂鑑賞</FONT></h3>
+    <P align=center><STRONG><FONT color=#F8F8FF,"font size=5">此生到盡頭，你是誰要如何活?無論是後來故事怎麽了，也要讓後來人生值得。<br>終於結束的起點，終於寫下句點，終於我們告別，終於我們又回到原點。</FONT></p>
+    <p>
+    <iframe width="320" height="315" src="https://www.youtube.com/embed/qIF8xvSA0Gw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="320" height="315" src="https://www.youtube.com/embed/yPSa1Sa8V3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="320" height="315" src="https://www.youtube.com/embed/MV-u2LyvPqY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="320" height="315" src="https://www.youtube.com/embed/ocDo3ySyHSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </p>
+	<iframe width="320" height="315" src="https://www.youtube.com/embed/t1nB8xMdiww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="320" height="315" src="https://www.youtube.com/embed/Jv3zvWZlXkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="320" height="315" src="https://www.youtube.com/embed/T4SimnaiktU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="320" height="315" src="https://www.youtube.com/embed/_XYcCNY-ass" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+</body>
+</html>
+
+
